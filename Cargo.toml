@@ -5,6 +5,6 @@ edition = "2021"
 
 [lib]
 name = "day2"
-path = "src/lib/2/pick.rs"
+path = "src/lib/2.rs"
 
 [dependencies]
