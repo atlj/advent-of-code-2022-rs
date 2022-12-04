@@ -4,4 +4,4 @@ These are the solutions for Advent of Code 2022 using Rust
 
 ## Why?
 
-Because;
+I like pain
